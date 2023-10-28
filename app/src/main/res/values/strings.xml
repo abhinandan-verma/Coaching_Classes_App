@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NVS Classes</string>
+    <string name="welcome_to_new_vision_science_classes">Welcome to New Vision Science Classes</string>
+    <string name="click_to_continue_as_student">Click to Continue as STUDENT</string>
+    <string name="click_to_continue_as_admin">Click to Continue as ADMIN</string>
+    <string name="power_to_empower">Power to Empower</string>
+</resources>
